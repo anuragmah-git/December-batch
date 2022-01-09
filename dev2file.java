@@ -1,5 +1,4 @@
 welcome to branch concept
-a=10
-b=20
-c=30
-d=40
+z=20
+m=40
+w=60
