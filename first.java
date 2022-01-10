@@ -1,4 +1,2 @@
-welcome to dev1 file
-
 welcome to initial commit
 
